@@ -43,7 +43,7 @@
     "angular": "~1.4",
     "angularfire": "^2.3.0",
     "firebase": "^7.6.1",
-    "lodash": "~3.10",
+    "lodash": "~4.17",
     "moment": "^2.21.0"
   },
   "repository": {
